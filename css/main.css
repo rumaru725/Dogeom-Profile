@@ -1,0 +1,20 @@
+.bg-main{
+    padding: 100px;
+}
+.profile-img{
+    width: 180px;
+    height: 180px;
+    background: url(../img/profile.jpg) no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+.profile-name{
+    margin-top: 0.7rem;
+}
+.vertical-bar{
+    width: 3px;
+    height: 100%;
+}
+.btn-width{
+    width: 120px;
+}
